@@ -1,0 +1,16 @@
+*.class
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+target
+.idea 
+
+*.log.*
+*.log
+.settings
+.svn
+.classpath
