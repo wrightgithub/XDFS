@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataNode/DataNode.iml" filepath="$PROJECT_DIR$/DataNode/DataNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NameNode/NameNode.iml" filepath="$PROJECT_DIR$/NameNode/NameNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XDFSClient/XDFSClient.iml" filepath="$PROJECT_DIR$/XDFSClient/XDFSClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed.iml" filepath="$PROJECT_DIR$/distributed.iml" />
+    </modules>
+  </component>
+</project>
